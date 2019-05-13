@@ -1,0 +1,11 @@
+managing homeworks with projects
+  one project per week
+  columns
+    not started
+    in progress
+    i have questions
+    all done
+  coaches start a card for each student
+  students put in a link to their homework
+  students manage their cards
+  close project at the end of the week
