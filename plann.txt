@@ -1,5 +1,6 @@
 managing homeworks with projects
   one project per week
+  one project per module project
   columns
     not started
     in progress
@@ -9,3 +10,7 @@ managing homeworks with projects
   students put in a link to their homework
   students manage their cards
   close project at the end of the week
+    if all homeworks for all staying students are done
+   
+   
+
